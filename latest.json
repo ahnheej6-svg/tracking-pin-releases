@@ -1,0 +1,78 @@
+{
+ "version": "1.0.2",
+ "notes": "미리보기·추적이 엉뚱한 장면을 잡던 문제를 한 번 더 고쳤어요 (프리미어 새 버전에서 확인).",
+ "files": {
+  "mac": [
+   {
+    "path": "TrackingPin.plugin/Contents/Info.plist",
+    "sha256": "2696ef0d553a9b241aa37aa3eb7c185d374b7b4b6fd1c3859b2c20e4a8dc2775",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/tracking-pin-releases/dist/v1.0.2/mac-TrackingPin.plugin__Contents__Info.plist",
+    "url2": "https://github.com/ahnheej6-svg/tracking-pin-releases/releases/download/v1.0.2/mac-TrackingPin.plugin__Contents__Info.plist"
+   },
+   {
+    "path": "TrackingPin.plugin/Contents/PkgInfo",
+    "sha256": "e13c5afd5f73acd972f0bc6472b86b8b0adf50bb82ed19a4680978469d45675a",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/tracking-pin-releases/dist/v1.0.2/mac-TrackingPin.plugin__Contents__PkgInfo",
+    "url2": "https://github.com/ahnheej6-svg/tracking-pin-releases/releases/download/v1.0.2/mac-TrackingPin.plugin__Contents__PkgInfo"
+   },
+   {
+    "path": "TrackingPin.plugin/Contents/_CodeSignature/CodeResources",
+    "sha256": "f84df44dbe0fa388ca0498a96479ffef6c4bf144ed36d6266e31e5580dd30ca7",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/tracking-pin-releases/dist/v1.0.2/mac-TrackingPin.plugin__Contents___CodeSignature__CodeResources",
+    "url2": "https://github.com/ahnheej6-svg/tracking-pin-releases/releases/download/v1.0.2/mac-TrackingPin.plugin__Contents___CodeSignature__CodeResources"
+   },
+   {
+    "path": "TrackingPin.plugin/Contents/MacOS/TrackingPin",
+    "sha256": "82d21f9724e5e801527937e08c46cc1750472758de6c9ea79c8e4298ed2c53cc",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/tracking-pin-releases/dist/v1.0.2/mac-TrackingPin.plugin__Contents__MacOS__TrackingPin",
+    "url2": "https://github.com/ahnheej6-svg/tracking-pin-releases/releases/download/v1.0.2/mac-TrackingPin.plugin__Contents__MacOS__TrackingPin"
+   },
+   {
+    "path": "TrackingPin.plugin/Contents/Resources/TrackingPin.rsrc",
+    "sha256": "d3618076777e8c67350f595c889d69c4cd1284b40faf970d7f889a2c04c80ebe",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/tracking-pin-releases/dist/v1.0.2/mac-TrackingPin.plugin__Contents__Resources__TrackingPin.rsrc",
+    "url2": "https://github.com/ahnheej6-svg/tracking-pin-releases/releases/download/v1.0.2/mac-TrackingPin.plugin__Contents__Resources__TrackingPin.rsrc"
+   }
+  ],
+  "win": [
+   {
+    "path": "TrackingPin.aex",
+    "sha256": "15229cff4cd1108a7f5cb8edbcd7cd4b0863ac3cfd42c72a29854e08683aed48",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/tracking-pin-releases/dist/v1.0.2/win-TrackingPin.aex",
+    "url2": "https://github.com/ahnheej6-svg/tracking-pin-releases/releases/download/v1.0.2/win-TrackingPin.aex"
+   },
+   {
+    "path": "TrackingPin_files/face_detector.onnx",
+    "sha256": "337018ff923830cd15999279550d4e00c553e5c21b11d78372a4691da9c2e916",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/tracking-pin-releases/dist/v1.0.2/win-TrackingPin_files__face_detector.onnx",
+    "url2": "https://github.com/ahnheej6-svg/tracking-pin-releases/releases/download/v1.0.2/win-TrackingPin_files__face_detector.onnx"
+   },
+   {
+    "path": "TrackingPin_files/face_landmarks_detector.onnx",
+    "sha256": "5198bb92049eba1bbdf5c547ac484af22c4112ced8f4e1c70a25ae626bf9a6c3",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/tracking-pin-releases/dist/v1.0.2/win-TrackingPin_files__face_landmarks_detector.onnx",
+    "url2": "https://github.com/ahnheej6-svg/tracking-pin-releases/releases/download/v1.0.2/win-TrackingPin_files__face_landmarks_detector.onnx"
+   },
+   {
+    "path": "TrackingPin_files/selfie_segmenter.onnx",
+    "sha256": "19981e58d5ea4457a9cbbdc5122c8f1ade613aa64782e08dd5318193174402f5",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/tracking-pin-releases/dist/v1.0.2/win-TrackingPin_files__selfie_segmenter.onnx",
+    "url2": "https://github.com/ahnheej6-svg/tracking-pin-releases/releases/download/v1.0.2/win-TrackingPin_files__selfie_segmenter.onnx"
+   },
+   {
+    "path": "TrackingPin_files/tp_onnxruntime.dll",
+    "sha256": "cb2fa518b18356617f6f9f460c012501da2819ec7e5c1d80bd8f5de20492db0c",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/tracking-pin-releases/dist/v1.0.2/win-TrackingPin_files__tp_onnxruntime.dll",
+    "url2": "https://github.com/ahnheej6-svg/tracking-pin-releases/releases/download/v1.0.2/win-TrackingPin_files__tp_onnxruntime.dll"
+   }
+  ]
+ },
+ "panel": {
+  "url": "https://raw.githubusercontent.com/ahnheej6-svg/tracking-pin-releases/dist/v1.0.2/TrackingPinPanel-1.0.2.ccx",
+  "url2": "https://github.com/ahnheej6-svg/tracking-pin-releases/releases/download/v1.0.2/TrackingPinPanel-1.0.2.ccx"
+ },
+ "install": {
+  "mac": "https://raw.githubusercontent.com/ahnheej6-svg/tracking-pin-releases/dist/v1.0.2/TrackingPin-mac-1.0.2.pkg",
+  "win": "https://raw.githubusercontent.com/ahnheej6-svg/tracking-pin-releases/dist/v1.0.2/TrackingPin-win-setup-1.0.2.exe"
+ }
+}
